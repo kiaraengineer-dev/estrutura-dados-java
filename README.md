@@ -20,6 +20,6 @@ operações de análise da árvore.
  - Subárvore direita: 9 -7 e 11
 
 ## Estrutura do código- Observação importante
-No.java: representa cada nó da árvore
- Arvore.java: contém os métodos de caminhamento e operações
- TestandoArvore.java: classe principal para execução
+- No.java: representa cada nó da árvore
+ - Arvore.java: contém os métodos de caminhamento e operações
+ - TestandoArvore.java: classe principal para execução
