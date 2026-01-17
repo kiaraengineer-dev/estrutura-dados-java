@@ -8,16 +8,16 @@ implementar diferentes tipos de caminhamento, além de
 operações de análise da árvore.
 
 ## Funcionalidades implementadas
-1. Caminhamento central (In-order)
-2.Caminhamento pré-fixado (Pre-order)
-3.Caminhamento pós-fixado (Post-order)
-4.Exibição de todos os nós folhas
-5.Exibição do nó pai (raiz) e seus filhos
+- Caminhamento central (In-order)
+- Caminhamento pré-fixado (Pre-order)
+- Caminhamento pós-fixado (Post-order)
+- Exibição de todos os nós folhas
+- Exibição do nó pai (raiz) e seus filhos
 
 ## Estrutura da árvore utilizada
- Raiz: 5
- Subárvore esquerda: 3 - 4
- Subárvore direita: 9 -7 e 11
+ - Raiz: 5
+ - Subárvore esquerda: 3 - 4
+ - Subárvore direita: 9 -7 e 11
 
 ## Estrutura do código- Observação importante
 No.java: representa cada nó da árvore
